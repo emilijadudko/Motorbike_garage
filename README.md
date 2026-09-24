@@ -16,8 +16,13 @@ Current UI:
 Updated UI:
 ![Basic Structure is now done](image-1.png)
 
+Added Homescreen but basic so far:
+![Basic homescreen](image-2.png)
+
 To do:
-- UI could do with some work
-- black/white mode ?
-- home page
+- add more bikes
+- UI (lacks depth)
+- home page (needs work)
 - colour wheel (same bike different colour)
+- comparison table
+
