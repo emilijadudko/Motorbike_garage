@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Yamaha MT-125",
+    "brand": "Yamaha",
+    "tier": "A1",
+    "powerHp": 15,
+    "weightKg": 142,
+    "seatHeightMm": 810,
+    "priceEstimate": "--",
+    "image": "assets/mt-125.jpg"
+  },
+  {
+    "name": "KTM Duke 390",
+    "brand": "KTM",
+    "tier": "A2",
+    "powerHp": 44,
+    "weightKg": 150,
+    "seatHeightMm": 830,
+    "priceEstimate": "--",
+    "image": "assets/ktm-390.jpg"
+  },
+  {
+    "name": "Honda CB500F",
+    "brand": "Honda",
+    "tier": "A2",
+    "powerHp": 47,
+    "weightKg": 189,
+    "seatHeightMm": 789,
+    "priceEstimate": "--",
+    "image": "assets/cb500f.jpg"
+  },
+  {
+    "name": "BMW S1000RR",
+    "brand": "BMW",
+    "tier": "Full A",
+    "powerHp": 205,
+    "weightKg": 197,
+    "seatHeightMm": 824,
+    "priceEstimate": "--",
+    "image": "assets/bmw-s1k.jpg"
+  }
+]

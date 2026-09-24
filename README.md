@@ -9,3 +9,14 @@ This project will feature:
 -custom wishlist
 -table of comparisons
 -price of each
+
+Current UI:
+![First Look](image.png)
+
+Updated UI:
+![Basic Structure is now done](image-1.png)
+
+To do:
+- favourites section
+- unappealing
+- home page
