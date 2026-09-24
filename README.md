@@ -17,6 +17,7 @@ Updated UI:
 ![Basic Structure is now done](image-1.png)
 
 To do:
-- favourites section
-- unappealing
+- UI could do with some work
+- black/white mode ?
 - home page
+- colour wheel (same bike different colour)
